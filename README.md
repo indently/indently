@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-All the code on my GitHub is free to use for any projects you want, you don't need my permission to use any of it. 
+All the code on my GitHub is free to use for any projects you want to, you don't need my permission to use any of it. 
 
 <!--
 **indently/indently** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
