@@ -1,2 +1,2 @@
 # Hello, world!
-This is the official Indently github repository.
+This is the official Indently github page.
