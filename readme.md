@@ -1,4 +1,4 @@
-## About
+## About:
 This is the official Indently github page.
 
 
@@ -17,6 +17,6 @@ This is the official Indently github page.
 - **Microphone**: Røde NT-USB and Wireless GO II (for travelling)
   
 
-## Disclaimer
+## Disclaimer:
 _Not all of my projects are available here on GitHub. If I don't mention a project being available in the lesson you're watching, then it probably doesn't exist._
 
