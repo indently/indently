@@ -6,7 +6,7 @@ This is the official Indently github page.
 - **Indently.io**: [Browse professional courses on Indently.io](https://indently.io)
 - **YouTube**: [Watch Indently on YouTube](https://www.youtube.com/@Indently)
 - **Instagram**: [Follow Indently on Instagram](https://www.instagram.com/indentlyreels/)
-- **Discord**: [Join the chat on Discord](https://www.discord.indently.io](https://discord.gg/FRwxrAKw9Z)
+- **Discord**: [Join the chat on Discord](https://discord.gg/FRwxrAKw9Z)
 
 
 ## My tools:
