@@ -10,10 +10,10 @@ This is the official Indently github page.
 
 
 ## My tools:
-- **IDE**: PyCharm Community/Professional
+- **IDE**: PyCharm Community Edition
 - **Theme**: Dark + New UI Enabled (Font: JetBrains Mono)
 - **Computer**: MacBook Air M1 2020, 8GB RAM
-- **Microphone**: Røde NT-USB and Wireless GO II (for travelling)
+- **Microphone**: Shure MV7+
   
 
 ## Disclaimer:
