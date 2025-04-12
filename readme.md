@@ -10,8 +10,8 @@ This is the official Indently github page.
 
 
 ## My tools:
-- **IDE**: PyCharm Community Edition
-- **Theme**: Dark + New UI Enabled (Font: JetBrains Mono)
+- **IDE**: PyCharm Community Edition -> Zed (12 April 2025)
+- **Theme**: Dark + New UI Enabled (Font: JetBrains Mono) (PyCharm) -> Custom (Zed)
 - **Computer**: MacBook Air M1 2020, 8GB RAM
 - **Microphone**: Shure MV7+
   
