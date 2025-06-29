@@ -9,12 +9,16 @@ This is the official Indently github page.
 - **Discord**: [Join the chat on Discord](https://discord.com/invite/FRwxrAKw9Z)
 
 
-## My tools:
-- **IDE**: Zed (as of April 2025)
+## Tools:
+- **Code editor**: Zed 
 - **Theme**: JetBrains New Dark (Zed version)
 - **Computer**: MacBook Air M1 2020, 8GB RAM
 - **Microphone**: Shure MV7+
-  
+
+## Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=indently&show_icons=true&theme=radical" alt="stats"/>
+</p>
 
 ## Disclaimer:
 _Not all of my projects are available here on GitHub. If I don't mention a project being available in the lesson you're watching, then it probably doesn't exist._
