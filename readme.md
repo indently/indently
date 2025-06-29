@@ -1,7 +1,3 @@
-## About:
-This is the official Indently github page.
-
-
 ## Official links:
 - **Indently.io**: [Browse professional courses on Indently.io](https://indently.io)
 - **YouTube**: [Watch Indently on YouTube](https://www.youtube.com/@Indently)
