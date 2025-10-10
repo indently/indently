@@ -8,7 +8,7 @@
 ## Tools:
 - **Code editor**: Zed 
 - **Theme**: JetBrains New Dark (Zed version)
-- **Computer**: MacBook Air M1 2020, 8GB RAM
+- **Computer**: MacBook Pro M4 2024, 16GB RAM
 - **Microphone**: Shure MV7+
 
 ## Stats:
