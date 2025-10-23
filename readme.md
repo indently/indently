@@ -17,5 +17,5 @@
 </p>
 
 ## Disclaimer:
-_Not all of my projects are available here on GitHub. If I don't mention a project being available in the lesson you're watching, then it probably doesn't exist._
+_Not all of my projects are available here on GitHub. If I don't mention a project being available in the lesson you're watching, then it probably doesn't exist. All code was created for educational purposes only. Please do some proper research before using any of it in your personal projects._
 
