@@ -6,7 +6,7 @@
 
 
 ## Tools:
-- **Code editor**: Zed ([my setup](https://github.com/indently/zed_setup/blob/main/settings.json))
+- **Code editor**: Zed ([my setup](https://github.com/indently/zed_setup))
 - **Theme**: JetBrains New Dark (Zed version)
 - **Computer**: MacBook Pro M4 2024, 16GB RAM
 - **Microphone**: Shure MV7+
