@@ -1,9 +1,7 @@
 ## Official links:
 - **Indently.io**: [Browse professional courses on Indently.io](https://indently.io)
 - **YouTube**: [Watch Indently on YouTube](https://www.youtube.com/@Indently)
-- **Instagram**: [Follow Indently on Instagram](https://www.instagram.com/indentlyreels/)
-- **Discord**: [Join the chat on Discord](https://discord.com/invite/FRwxrAKw9Z)
-
+- **Newslettere**: [Python newsletter](https://www.indently.io/#newsletter)
 
 ## Tools:
 - **Code editor**: Zed ([my setup](https://github.com/indently/zed_setup))
