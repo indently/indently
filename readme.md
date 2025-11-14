@@ -15,5 +15,5 @@
 </p>
 
 ## Disclaimer:
-_Not all of my projects are available here on GitHub. If I don't mention a project being available in the lesson you're watching, then it probably doesn't exist. All code was created for educational purposes only. Please do some proper research before using any of it in your personal projects._
+_Not all of my projects are published on GitHub. If a project is not explicitly referenced as available, it should be assumed that no public version exists. All code provided is intended solely for educational use. Please conduct your own research and verify the code before incorporating any of it into your personal or production projects._
 
