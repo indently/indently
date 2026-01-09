@@ -8,11 +8,6 @@
 - **Computer**: MacBook Pro M4 2024, 16GB RAM
 - **Microphone**: Shure MV7+
 
-## Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=indently&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
 ## Disclaimer:
 _Not all of my projects are published on GitHub. If a project is not explicitly referenced as available, it should be assumed that no public version exists. All code provided is intended solely for educational use. Please conduct your own research before incorporating any of the code into your projects._
 
