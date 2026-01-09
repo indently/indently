@@ -1,7 +1,6 @@
 ## Official links:
 - **Indently.io**: [Browse professional courses on Indently.io](https://indently.io)
 - **YouTube**: [Watch Indently on YouTube](https://www.youtube.com/@Indently)
-- **Newsletter**: [Get my Python newsletter](https://www.indently.io/#newsletter)
 
 ## Tools:
 - **Code editor**: Zed ([my setup](https://github.com/indently/zed_setup))
