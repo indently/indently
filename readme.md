@@ -5,7 +5,7 @@ with code: **THIRTYOFF**
 ## Official links:
 - **Indently.io**: [Browse professional courses on Indently.io](https://indently.io)
 - **YouTube**: [Watch Indently on YouTube](https://www.youtube.com/@Indently)
-- **Instagram**: [Instagram](https://www.instagram.com/indentlyreels/)
+- **Instagram**: [Follow me on Instagram](https://www.instagram.com/indentlyreels/)
 
 ## Tools:
 - **Code editor**: Zed ([my setup](https://github.com/indently/zed_setup))
