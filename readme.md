@@ -8,7 +8,7 @@ with code: **THIRTYOFF**
 - **Instagram**: [Follow me on Instagram](https://www.instagram.com/indentlyreels/)
 
 ## Tools:
-- **Code editor**: Zed ([my setup](https://github.com/indently/zed_setup))
+- **Code editor**: Zed ([My setup](https://github.com/indently/zed_setup))
 - **Theme**: JetBrains New Dark (Zed version)
 - **Computer**: MacBook Pro M4 2024, 16GB RAM
 - **Microphone**: Shure MV7+
