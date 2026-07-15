@@ -1,3 +1,7 @@
+## 🏖️ Summer Deal! Ready to master Python? ☀️
+- Get **30% OFF** your membership or any individual product at: https://indently.io
+with code: **THIRTYOFF**
+
 ## Official links:
 - **Indently.io**: [Browse professional courses on Indently.io](https://indently.io)
 - **YouTube**: [Watch Indently on YouTube](https://www.youtube.com/@Indently)
